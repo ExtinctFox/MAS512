@@ -1,6 +1,10 @@
+numpy
+pandas
+pillow
 seaborn
 matplotlib
 scikit-image
 scikit-learn
 tensorflow==2.10.1
+tensorflow_datasets
 opencv-python==4.6.0.66
