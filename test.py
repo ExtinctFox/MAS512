@@ -9,5 +9,4 @@ import matplotlib.pyplot as plt
 import seaborn as sbn
 import tensorflow_datasets as tdfs
 
-
 # print(tf.version.VERSION)
